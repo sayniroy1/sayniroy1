@@ -7,7 +7,6 @@ Product/Data Analyst to analyse the supply chain data gathered from MES-ERP syst
 <br> 
 <img align="right" alt="Area Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
 
-![](https://komarev.com/ghpvc/?username=aryakghosal&label=Profile+Views&style=flat-square&color=blue)
 - :seedling: I'm interested in `Data Anlaytics` **&** `Buisness Intelligence`
 
 - :books: I’m currently learning **Data Analytics**
@@ -16,7 +15,7 @@ Product/Data Analyst to analyse the supply chain data gathered from MES-ERP syst
 
 - :speech_balloon: Ask me about **SQL & Power BI**
 
-- :rocket: All of my projects are available here on [GitHub](https://github.com/aryakghosal?tab=repositories)
+- :rocket: All of my projects are available here on https://github.com/sayniroy1?tab=repositories
 
 <br>
 
