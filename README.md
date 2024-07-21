@@ -36,6 +36,9 @@ Product/Data Analyst to analyse the supply chain data gathered from MES-ERP syst
 </a> &nbsp;
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" alt="Tableau" width="40" height="40"/>  
 </a> &nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
+</a> &nbsp;
 
 </p>
 
