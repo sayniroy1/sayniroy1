@@ -7,7 +7,7 @@ Product/Data Analyst to analyse the supply chain data gathered from MES-ERP syst
 <br> 
 <img align="right" alt="Area Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
 
-- :seedling: I'm interested in `Data Anlaytics` **,** `Buisness Intelligence **&** Product Management
+- :seedling: I'm interested in `Data Anlaytics` **,** `Buisness Intelligence` **,** `Product Management` **&** `Supply Chain`
 
 - :books: I’m currently learning **Data Analytics**
 
