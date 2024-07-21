@@ -7,13 +7,13 @@ Product/Data Analyst to analyse the supply chain data gathered from MES-ERP syst
 <br> 
 <img align="right" alt="Area Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
 
-- :seedling: I'm interested in `Data Anlaytics` **&** `Buisness Intelligence`
+- :seedling: I'm interested in `Data Anlaytics` **,** `Buisness Intelligence **&** Product Management
 
 - :books: I’m currently learning **Data Analytics**
 
-- :telescope: I'm looking to collaborate on **Data Analysis Projects**
+- :telescope: I'm looking to collaborate on **Data Analysis and Product Management**
 
-- :speech_balloon: Ask me about **SQL & Power BI**
+- :speech_balloon: Ask me about **SQL, Power BI, Excel, Figma, Balsamiq**
 
 - :rocket: All of my projects are available here on  [GitHub](https://github.com/sayniroy1?tab=repositories)
 
