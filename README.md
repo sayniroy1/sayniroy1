@@ -15,7 +15,7 @@ Product/Data Analyst to analyse the supply chain data gathered from MES-ERP syst
 
 - :speech_balloon: Ask me about **SQL & Power BI**
 
-- :rocket: All of my projects are available here on https://github.com/sayniroy1?tab=repositories
+- :rocket: All of my projects are available here on  [GitHub](https://github.com/sayniroy1?tab=repositories)
 
 <br>
 
