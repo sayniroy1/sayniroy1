@@ -1,4 +1,5 @@
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ExdXNpbXhpNndua3B5NWowa2d3eG1zNW1ubGxocTU2dmUyNmpxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif)
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ExdXNpbXhpNndua3B5NWowa2d3eG1zNW1ubGxocTU2dmUyNmpxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" alt="MasterHead" width="300" height="200"/>
+
 <h1 align="left">Hi, I'm Sayni Roy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="GitHub User Stars" src="https://img.shields.io/github/stars/sayniroy1?logo=github"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/sayniroy1/sayniroy1?logo=GitHub"> </h1>
 
 <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=800&width=430&height=25&lines=Product+and+Data+Analyst;Transforming+Data+into+Actionable+Insights; Experienced in product improvement" alt="Typing SVG" /></a>
