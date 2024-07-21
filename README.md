@@ -3,7 +3,7 @@
 
 <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=800&width=430&height=25&lines=Aspiring+Data+Analyst;Transforming+Data+into+Actionable+Insights;Telling+the+Story+behind+Complex+Data" alt="Typing SVG" /></a>
 <br> 
-An aspiring Data Analyst with a bachelor's degree in Electrical Engineering and a strong foundation in SQL and Power BI. Eager to turn my passion for data into a rewarding career, I am dedicated to continuously learning and developing my skills in data analysis, visualization, and presentation techniques. 
+Product/Data Analyst to analyse the supply chain data gathered from MES-ERP systems and provide data-driven solutions to the stakeholders.
 <br> 
 <img align="right" alt="Area Chart" width="400" height="250" src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif">
 
